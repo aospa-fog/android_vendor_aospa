@@ -15,7 +15,8 @@
         "remote":       "aospa",
         "repository":   "alternoegraha/kernel_xiaomi_sm6225",
         "target_path":  "kernel/xiaomi/fog",
-        "revision":     "walt"
+        "revision":     "walt",
+        "clone-depth":  "1"
     },
     {
         "remote":       "aospa",
