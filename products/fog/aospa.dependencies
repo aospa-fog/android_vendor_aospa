@@ -3,7 +3,7 @@
         "remote":       "aospa",
         "repository":   "aospa-fog/android_device_xiaomi_fog",
         "target_path":  "device/xiaomi/fog",
-        "revision":     "uvite"
+        "revision":     "uvite-uclamp"
     },
     {
         "remote":       "aospa",
@@ -15,7 +15,7 @@
         "remote":       "aospa",
         "repository":   "alternoegraha/kernel_xiaomi_sm6225",
         "target_path":  "kernel/xiaomi/fog",
-        "revision":     "walt",
+        "revision":     "fog-new",
         "clone-depth":  "1"
     },
     {
